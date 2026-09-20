@@ -1,21 +1,42 @@
-## Bem-vindo(a) ao perfil do Tati-dev 😁
+# Tatiane Pereira
 
- <div>
-   <a href="https://github.com/Tati-dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tati-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tati-dev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href = "mailto:tathii.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### Desenvolvimento Web • Automação • IA aplicada a negócios
+
+Sou graduanda em Marketing e desenvolvo projetos independentes que conectam tecnologia, automação e necessidades reais de negócio.
+
+Atualmente trabalho com PHP, JavaScript, HTML, CSS, SQL/SQLite e APIs REST, utilizando IA generativa como apoio no desenvolvimento, testes, análise e resolução de problemas.
+
+## 🚀 Projetos em destaque
+
+### Pulse OS
+Plataforma de inteligência de conteúdo com integração via API, sincronização de conteúdos, métricas, dashboards, análise de desempenho e gerenciamento de perfis.
+
+### ContabFlow 360
+Sistema de gestão de operações contábeis com diferentes níveis de acesso, gerenciamento de empresas, obrigações, documentos, notas, folha, extratos, histórico e regras de negócio.
+
+### Página + Funil + Lead Hub
+Projeto desenvolvido a partir da AXB Streetwear Clothing, projeto pessoal já existente.
+
+A solução combina uma página voltada à conversão, fluxo via WhatsApp, segmentação de perfil e um sistema complementar de captação, qualificação e gerenciamento de leads.
+
+Os contatos são classificados conforme sinais de intenção, permitindo diferenciar perfis como alta intenção, interesse em conhecer melhor o produto, sensibilidade a preço e acompanhamento.
+
+## 🛠 Tecnologias e competências
+
+- PHP
+- JavaScript
+- HTML & CSS
+- SQL / SQLite
+- APIs REST
+- Git & GitHub
+- Automação de processos
+- CRM e gerenciamento de leads
+- IA generativa aplicada ao desenvolvimento
+
+## 💡 Áreas de interesse
+
+Desenvolvimento Web • Automação • Sistemas Web • CRM • APIs • IA aplicada a negócios
+
+## 📫 Contato
+
+LinkedIn: adicione aqui o link do seu perfil
