@@ -13,13 +13,15 @@ Plataforma de inteligência de conteúdo com integração via API, sincronizaç�
 ### ContabFlow 360
 Sistema de gestão de operações contábeis com diferentes níveis de acesso, gerenciamento de empresas, obrigações, documentos, notas, folha, extratos, histórico e regras de negócio.
 
-### Página + Funil + Lead Hub
-Projeto desenvolvido a partir da AXB Streetwear Clothing, projeto pessoal já existente.
+### [Streetwear Audience Insights](https://github.com/tatiane-pereira-dev/streetwear-audience-insights)
 
-A solução combina uma página voltada à conversão, fluxo via WhatsApp, segmentação de perfil e um sistema complementar de captação, qualificação e gerenciamento de leads.
+Projeto aplicado à **AXB Streetwear Clothing**, minha marca pessoal de streetwear, criado para transformar interações da audiência em informações úteis para decisões de produto.
 
-Os contatos são classificados conforme sinais de intenção, permitindo diferenciar perfis como alta intenção, interesse em conhecer melhor o produto, sensibilidade a preço e acompanhamento.
+A solução combina landing page, fluxo conversacional em formato WhatsApp, segmentação nos perfis RAW, MINIMAL, GRAPHIC e UNDERGROUND e um Lead Hub desenvolvido em PHP para captação, classificação e gerenciamento de contatos.
 
+O fluxo identifica preferências e sinais de intenção, enquanto o Lead Hub organiza os contatos para acompanhamento comercial.
+
+**Tecnologias:** PHP • JavaScript • HTML • CSS • Automação • CRM • Segmentação de audiência
 ## 🛠 Tecnologias e competências
 
 - PHP
@@ -38,4 +40,4 @@ Desenvolvimento Web • Automação • Sistemas Web • CRM • APIs • IA apl
 
 ## 📫 Contato
 
-LinkedIn: adicione aqui o link do seu perfil
+LinkedIn: [linkedin.com/in/tatiapereira](https://www.linkedin.com/in/tatiapereira/)
