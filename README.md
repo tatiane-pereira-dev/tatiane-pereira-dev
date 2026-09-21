@@ -2,7 +2,7 @@
 
 ### Desenvolvimento Web • Automação • IA aplicada a negócios
 
-Sou graduanda em Marketing e desenvolvo projetos independentes que conectam tecnologia, automação e necessidades reais de negócio.
+Atualmente curso Marketing e desenvolvo projetos independentes que conectam tecnologia, automação e necessidades reais de negócio.
 Atualmente trabalho com PHP, JavaScript, HTML, CSS, SQL/SQLite e APIs REST, utilizando IA generativa como apoio no desenvolvimento, testes, análise e resolução de problemas.
 
 ## 🚀 Projetos em destaque
